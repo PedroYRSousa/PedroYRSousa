@@ -51,7 +51,7 @@ Além de estar finalizando o curso da 42 São Paulo.<br>
 
 ## Status:
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/PedroYRSousa">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroYRSousa&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroYRSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
