@@ -4,6 +4,8 @@ Tenho 29 anos e atualmente trabalho no <img src="https://upload.wikimedia.org/wi
 Faço graduação em análise e desenvolvimento de sistemas pela Descomplica.<br>
 Além de estar finalizando o curso da 42 São Paulo.<br>
 
+[Portfolio](https://pedroyrsousa.github.io/Portfolio/)
+
 ## Projetos
 	Legendary: Progresso [Teste alpha]
 		Plataforma para criação de legendas para todo e qualquer video na internet.
